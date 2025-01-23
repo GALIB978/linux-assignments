@@ -1,5 +1,5 @@
            Step 1: Create an Azure Account
--Visit the Azure Portal: Go to portal.azure.com.
+-Visit the Azure Portal: Go to portal.azure.com
 -Sign Up Using HAMK Email: Use student.hamk.fi email to create a free account.
           Step 2: Request Azure for Students Credits
 -Log In to Azure Portal: Use student credentials to log in to the Azure account.
