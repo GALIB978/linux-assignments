@@ -7,6 +7,7 @@
 - Apply for Student Credits:
 - Go to the Azure for Students page.
 - Add an "Azure for Students" subscription.
+
         Step 3: Create a Virtual Machine
 - Go to Azure Portal Homepage: Once logged in, navigate to the homepage.
 - Create a New Virtual Machine:
@@ -22,6 +23,7 @@
 - Resource Group: Create a new resource group to organize the virtual machine.
 - Subnet: Set up a new subnet within the virtual network.
 - Review and Create: After entering the settings, review your configuration and click Create.
+  
          Step 4: Connect to the Virtual Machine
 - Download PuTTY:
 - Go to PuTTY’s official website.
